@@ -17,6 +17,8 @@ Some features include:
 
 ## Link to website
 
+[Horiseon's Website](https://jordanferrario.github.io/Horiseon-Marketing-Agency/)
+
 ## Author
 
 [Jordan Ferrario](https://github.com/jordanferrario)
