@@ -13,7 +13,7 @@ Some features include:
 
 ## Screenshot
 
-![A screenshot of the Horiseon website.](assets\images\horiseon-webpage-screenshot.png)
+![A screenshot of the Horiseon website.](.\assets\images\horiseon-webpage-screenshot.png)
 
 ## Link to website
 
